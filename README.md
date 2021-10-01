@@ -1,2 +1,2 @@
-# CE206
+# CE206-TE
 Special English for Students of Computer
